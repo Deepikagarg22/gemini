@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 # Initialize Streamlit app
 st.set_page_config(page_title="CODE GPT")
-st.header("Stack overflow")
+st.header("Generate Doccumentation")
 
 # Sidebar for Gemini Pro API Key input
 with st.sidebar:
